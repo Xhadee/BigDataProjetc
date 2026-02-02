@@ -91,8 +91,8 @@ Ces indicateurs permettent un **pilotage stratégique des ventes e-commerce**.
 project/
 ├── data/
 │   ├── bronze/                 # Données brutes (Raw Layer)
-│   │   ├── main/               # Logs principaux ingérés
-│   │   └── enrich/             # Données brutes enrichies
+│   │   ├── main/               #Source 1
+│   │   └── enrich/             #Source 2
 │   │
 │   ├── silver/                 # Données nettoyées et normalisées
 │   │   ├── main_clean/         # Nettoyage des données principales
